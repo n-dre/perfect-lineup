@@ -1,5 +1,4 @@
 const expect = require('chai').expect
-const { describe, it } = require('mocha')
 const validateLineup = require('./index')
 
 describe('validateLineup', () => {
